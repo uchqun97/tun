@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+}
+.tun{
+    background-color: black;
+    color:white;
+}
+button{
+    margin:20px;
+    padding:20px 30px;
+    font-size: 20px;
+}
